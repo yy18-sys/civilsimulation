@@ -1,4 +1,2 @@
 # civilsimulation
-A simulation to simulate civil behavior
-
-LOL
+A simulation to simulate civil behavior.
