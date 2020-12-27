@@ -1,4 +1,4 @@
-class Elements:
+class Element:
 
     def __init__(self,name):
         self.name = name
@@ -6,8 +6,8 @@ class Elements:
     def getname(self):
         return self.name
 
-class Ground(Elements):
+class Ground(Element):
 
 
     def isGround(self):
-        return  True
+        return True
