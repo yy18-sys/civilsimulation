@@ -29,3 +29,12 @@ class human:
                 self.food = self.maxfood
             else:
                 self.food = currentFood
+
+    def getFood(self):
+        return self.food
+
+    def getHealth(self):
+        return self.health
+
+    def isAlive(self):
+        return self.alive
