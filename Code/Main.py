@@ -1,4 +1,3 @@
 from matplotlib import pyplot
 import numpy as np
 
-print("Ello")
