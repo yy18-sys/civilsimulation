@@ -1,7 +1,7 @@
 class Element:
 
-    def __init__(self,name):
-        self.name = name
+    def __init__(self,state):
+        self.state = state
 
-    def getname(self):
+    def getState(self):
         return self.name
