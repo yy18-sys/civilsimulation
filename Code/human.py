@@ -1,3 +1,5 @@
+import time
+
 class human:
 
     def __init__(self, name,maxhealth,health,maxfood,food):
