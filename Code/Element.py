@@ -4,4 +4,5 @@ class Element:
         self.state = state
 
     def getState(self):
-        return self.name
+        if(self.state == 0):
+            print("ground")
