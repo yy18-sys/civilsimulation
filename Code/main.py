@@ -4,6 +4,6 @@ from Code.element import Element
 
 world = np.ndarray(shape=(20, 20), dtype=Element)
 
-world
+world[1][1] = Ground()
 
 print(world)
